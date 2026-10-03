@@ -1,4 +1,4 @@
-# When does synthetic data help? Imbalance, allocation and fidelity in food image classification
+# Imbalance, allocation and generation fidelity in diffusion-based augmentation for long-tailed food classification
 
 Code, data splits and results for the paper by Abhishek Kataria, Rahul Nijhawan
 and Raman Kumar Goyal (Thapar Institute of Engineering and Technology).
