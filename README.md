@@ -61,7 +61,8 @@ with `sha256sum -c SHA256SUMS`.
 3. The notebooks and `scripts/finish_sweep.py` / `scripts/fix_leakage.py`
    train every arm; each run writes a `*_results.json`.
 4. `scripts/make_curve.py`, `scripts/make_plots.py` and
-   `scripts/make_figures.py` regenerate the figures and tables.
+   `scripts/make_figures.py` regenerate the figures and tables;
+   `scripts/make_audit_figure.py --seed 1` regenerates Fig. 6.
 
 Paths are set as constants at the top of each script (`/workspace/...`);
 edit them for your machine.
