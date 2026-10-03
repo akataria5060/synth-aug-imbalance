@@ -27,8 +27,11 @@ every run's full record is in `results/`.
 
 ```
 scripts/        split construction, image generation, training, figures
-notebooks/      notebook code for the Food101-LT allocation arms,
-                the UEC-256 runs and the imbalance sweep (outputs cleared)
+notebooks/      food101lt_allocation_arms: Food101-LT arms at IR 150
+                imbalance_sweep: sweep training runs at IR 50, 20 and 5
+                sweep_synth_list: builds the 3,800-image sweep list
+                uec256_arms_and_fidelity: UEC-256 split, arms A to D,
+                fidelity scoring and allocations (outputs cleared)
 splits/         Food101-LT split files with SHA256SUMS, manifests,
                 class counts and every synthetic-image allocation list
 uec256_meta/    hand-written UEC-256 prompts, per-class fidelity scores,
