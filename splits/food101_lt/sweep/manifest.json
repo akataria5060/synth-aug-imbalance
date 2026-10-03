@@ -1,0 +1,66 @@
+{
+  "source": "Food-101 official train split",
+  "profile": "geometric",
+  "n_classes": 101,
+  "n_max": 750,
+  "seed": 42,
+  "class_order": "shuffled(seed=42), identical across all ratios",
+  "test_set": "official Food-101 test, unmodified (250/class)",
+  "ratios": [
+    {
+      "imbalance_ratio": 150,
+      "n_max": 750,
+      "n_min": 5,
+      "total_train_images": 15244,
+      "mean_per_class": 150.93,
+      "head_classes": 33,
+      "tail_classes": 68,
+      "split_file": "/workspace/food101/food-101/meta/train_lt_ir150.txt",
+      "sha256": "71da1dc3f08f384c4b3371b03882e2ffb004f4a93fdb2dba1863f74b43d927d8"
+    },
+    {
+      "imbalance_ratio": 50,
+      "n_max": 750,
+      "n_min": 15,
+      "total_train_images": 19172,
+      "mean_per_class": 189.82,
+      "head_classes": 36,
+      "tail_classes": 65,
+      "split_file": "/workspace/food101/food-101/meta/train_lt_ir50.txt",
+      "sha256": "8753b35cba981ccb64b58a3008e5c60eb6185b881584472caab41070ac17ba8c"
+    },
+    {
+      "imbalance_ratio": 20,
+      "n_max": 750,
+      "n_min": 38,
+      "total_train_images": 24268,
+      "mean_per_class": 240.28,
+      "head_classes": 39,
+      "tail_classes": 62,
+      "split_file": "/workspace/food101/food-101/meta/train_lt_ir20.txt",
+      "sha256": "2bbcb80871d3e027b9c39a944877f602b18d64a22d1663af8216611c99770bac"
+    },
+    {
+      "imbalance_ratio": 5,
+      "n_max": 750,
+      "n_min": 150,
+      "total_train_images": 37728,
+      "mean_per_class": 373.54,
+      "head_classes": 44,
+      "tail_classes": 57,
+      "split_file": "/workspace/food101/food-101/meta/train_lt_ir5.txt",
+      "sha256": "fbe90f543d5edd7ed45c559ed8e0ae9e51ae15ef5f6d359576ba2b8a5748a187"
+    },
+    {
+      "imbalance_ratio": 1,
+      "n_max": 750,
+      "n_min": 750,
+      "total_train_images": 75750,
+      "mean_per_class": 750.0,
+      "head_classes": 0,
+      "tail_classes": 101,
+      "split_file": "/workspace/food101/food-101/meta/train_lt_ir1.txt",
+      "sha256": "ee0f050d846bcac0c2d8831c85444847c7774205b10654fb3372691b2f19199a"
+    }
+  ]
+}

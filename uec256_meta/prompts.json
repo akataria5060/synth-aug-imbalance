@@ -1,0 +1,1026 @@
+{
+  "0": {
+    "name": "rice",
+    "prompt": "a bowl of plain steamed white Japanese rice"
+  },
+  "1": {
+    "name": "eels on rice",
+    "prompt": "unaju, grilled eel glazed with kabayaki sauce laid in neat parallel strips filling a rectangular black lacquered box, viewed from above"
+  },
+  "2": {
+    "name": "pilaf",
+    "prompt": "pilaf, seasoned rice pilaf cooked with vegetables and stock"
+  },
+  "3": {
+    "name": "chicken-'n'-egg on rice",
+    "prompt": "oyakodon, simmered chicken and soft-set egg over rice in a donburi bowl"
+  },
+  "4": {
+    "name": "pork cutlet on rice",
+    "prompt": "katsudon, breaded deep-fried pork cutlet with egg and onion over rice in a bowl"
+  },
+  "5": {
+    "name": "beef curry",
+    "prompt": "Japanese beef curry, thick brown curry sauce with beef served beside white rice on a plate"
+  },
+  "6": {
+    "name": "sushi",
+    "prompt": "nigiri sushi, slices of raw fish on small oblong beds of vinegared rice"
+  },
+  "7": {
+    "name": "chicken rice",
+    "prompt": "Hainanese chicken rice, poached sliced chicken with seasoned rice, cucumber and chilli sauce"
+  },
+  "8": {
+    "name": "fried rice",
+    "prompt": "chahan, Chinese-style fried rice stir-fried with egg, spring onion and small pieces of pork"
+  },
+  "9": {
+    "name": "tempura bowl",
+    "prompt": "tendon, assorted tempura pieces glazed with sweet sauce served over rice in a bowl"
+  },
+  "10": {
+    "name": "bibimbap",
+    "prompt": "bibimbap, Korean rice bowl topped with arranged namul vegetables, beef, fried egg and gochujang"
+  },
+  "11": {
+    "name": "toast",
+    "prompt": "thick slice of Japanese shokupan toast, lightly browned, on a plate"
+  },
+  "12": {
+    "name": "croissant",
+    "prompt": "a plain butter croissant on a plate"
+  },
+  "13": {
+    "name": "roll bread",
+    "prompt": "Japanese roll bread, small soft white dinner rolls"
+  },
+  "14": {
+    "name": "raisin bread",
+    "prompt": "raisin bread, sliced soft white loaf studded with raisins"
+  },
+  "15": {
+    "name": "chip butty",
+    "prompt": "chip butty, thick-cut chips in a buttered white bread sandwich"
+  },
+  "16": {
+    "name": "hamburger",
+    "prompt": "a hamburger with beef patty, lettuce, tomato and cheese in a sesame seed bun"
+  },
+  "17": {
+    "name": "pizza",
+    "prompt": "a whole round pizza with melted mozzarella and tomato sauce"
+  },
+  "18": {
+    "name": "sandwiches",
+    "prompt": "sandwiches, triangular crustless white bread sandwiches on a plate"
+  },
+  "19": {
+    "name": "udon noodle",
+    "prompt": "udon, thick white wheat noodles in clear dashi broth in a bowl"
+  },
+  "20": {
+    "name": "tempura udon",
+    "prompt": "tempura udon, thick white udon noodles in dashi broth topped with a large battered prawn tempura"
+  },
+  "21": {
+    "name": "soba noodle",
+    "prompt": "soba, thin greyish-brown buckwheat noodles in dark dashi broth in a bowl"
+  },
+  "22": {
+    "name": "ramen noodle",
+    "prompt": "ramen in a bowl of clear brown shoyu broth with straight thin noodles, chashu pork, menma bamboo shoots, spring onion and a sheet of nori"
+  },
+  "23": {
+    "name": "beef noodle",
+    "prompt": "tonkotsu ramen in a bowl of thick creamy pale white pork bone broth, with chashu pork slices, a halved soft-boiled ajitama egg and spring onion"
+  },
+  "24": {
+    "name": "tensin noodle",
+    "prompt": "tenshin-men, ramen noodles in clear broth topped with a large crab and egg omelette"
+  },
+  "25": {
+    "name": "fried noodle",
+    "prompt": "yakisoba, pan-fried wheat noodles stir-fried with cabbage, pork and brown sauce, no soup"
+  },
+  "26": {
+    "name": "spaghetti",
+    "prompt": "spaghetti with tomato sauce on a plate, twirled long pasta"
+  },
+  "27": {
+    "name": "Japanese-style pancake",
+    "prompt": "okonomiyaki, thick savoury Japanese pancake with cabbage, brown sauce, mayonnaise stripes and bonito flakes"
+  },
+  "28": {
+    "name": "takoyaki",
+    "prompt": "takoyaki, round ball-shaped octopus dumplings in a tray with sauce, mayonnaise and dancing bonito flakes"
+  },
+  "29": {
+    "name": "gratin",
+    "prompt": "gratin, creamy white sauce baked with browned cheese crust in an oval ceramic dish"
+  },
+  "30": {
+    "name": "sauteed vegetables",
+    "prompt": "yasai itame, stir-fried mixed vegetables with cabbage, carrot and bean sprouts on a plate"
+  },
+  "31": {
+    "name": "croquette",
+    "prompt": "korokke, oval deep-fried breadcrumbed potato croquettes with golden crust on a plate"
+  },
+  "32": {
+    "name": "grilled eggplant",
+    "prompt": "yakinasu, grilled Japanese eggplant, charred and peeled, topped with grated ginger and soy"
+  },
+  "33": {
+    "name": "sauteed spinach",
+    "prompt": "sauteed spinach, wilted dark green spinach leaves lightly fried, served in a small dish"
+  },
+  "34": {
+    "name": "vegetable tempura",
+    "prompt": "vegetable-only tempura, battered deep-fried sweet potato, pumpkin, aubergine and shiso leaf, no seafood"
+  },
+  "35": {
+    "name": "miso soup",
+    "prompt": "miso soup, plain light brown miso broth with small cubes of tofu and wakame seaweed in a lacquered bowl"
+  },
+  "36": {
+    "name": "potage",
+    "prompt": "potage, smooth thick creamy pale soup in a wide white bowl"
+  },
+  "37": {
+    "name": "sausage",
+    "prompt": "sausage, grilled pork sausages on a plate"
+  },
+  "38": {
+    "name": "oden",
+    "prompt": "oden, assorted simmered items in clear dashi broth, daikon, boiled egg, fish cake and konnyaku triangle"
+  },
+  "39": {
+    "name": "omelet",
+    "prompt": "a Western-style omelette, a large folded oval of soft pale yellow egg on a plate with a spoonful of ketchup or tomato sauce"
+  },
+  "40": {
+    "name": "ganmodoki",
+    "prompt": "ganmodoki, round deep-fried tofu fritters with carrot and burdock specks, simmered in broth"
+  },
+  "41": {
+    "name": "jiaozi",
+    "prompt": "gyoza, pan-fried crescent dumplings with browned crisp bottoms arranged on a plate"
+  },
+  "42": {
+    "name": "stew",
+    "prompt": "beef stew, dark brown stew with chunks of beef, carrot and potato in a bowl"
+  },
+  "43": {
+    "name": "teriyaki grilled fish",
+    "prompt": "teriyaki grilled fish, fish fillet glazed with glossy dark teriyaki sauce"
+  },
+  "44": {
+    "name": "fried fish",
+    "prompt": "deep-fried white fish fillet with golden breadcrumb coating on a plate"
+  },
+  "45": {
+    "name": "grilled salmon",
+    "prompt": "grilled salmon fillet, orange-pink flesh with crisp skin and grill marks"
+  },
+  "46": {
+    "name": "salmon meuniere",
+    "prompt": "salmon meuniere, salmon fillet pan-fried in butter and flour with lemon and parsley butter sauce"
+  },
+  "47": {
+    "name": "sashimi",
+    "prompt": "sashimi, thick slices of raw tuna and white fish on a plate with shiso leaf and grated daikon, no rice"
+  },
+  "48": {
+    "name": "grilled pacific saury",
+    "prompt": "sanma shioyaki, whole grilled pacific saury, a long silver fish with charred skin, served with grated daikon"
+  },
+  "49": {
+    "name": "sukiyaki",
+    "prompt": "sukiyaki, thinly sliced beef, tofu, shiitake and shirataki simmered in a shallow iron pot in sweet soy broth"
+  },
+  "50": {
+    "name": "sweet and sour pork",
+    "prompt": "subuta, sweet and sour pork in glossy orange-red sauce with green pepper, onion and pineapple"
+  },
+  "51": {
+    "name": "lightly roasted fish",
+    "prompt": "tataki, lightly seared fish with a raw pink centre, sliced and arranged on a plate"
+  },
+  "52": {
+    "name": "steamed egg hotchpotch",
+    "prompt": "chawanmushi, savoury steamed egg custard, smooth pale yellow surface in a small lidded cup"
+  },
+  "53": {
+    "name": "tempura",
+    "prompt": "assorted tempura including large battered prawns and vegetables, arranged on paper on a plate"
+  },
+  "54": {
+    "name": "fried chicken",
+    "prompt": "karaage, Japanese bite-sized deep-fried chicken pieces, craggy golden coating, with lemon wedge"
+  },
+  "55": {
+    "name": "sirloin cutlet",
+    "prompt": "sirloin cutlet, breaded deep-fried beef sirloin sliced into strips"
+  },
+  "56": {
+    "name": "nanbanzuke",
+    "prompt": "nanbanzuke, deep-fried small fish marinated in sweet vinegar with sliced onion, carrot and red chilli"
+  },
+  "57": {
+    "name": "boiled fish",
+    "prompt": "nizakana, fish simmered whole in sweet soy broth, dark glossy, served in a shallow bowl"
+  },
+  "58": {
+    "name": "seasoned beef with potatoes",
+    "prompt": "nikujaga, simmered beef and potato with onion and carrot in sweet soy broth"
+  },
+  "59": {
+    "name": "hambarg steak",
+    "prompt": "hambagu, Japanese hamburger steak patty with brown demi-glace sauce on a plate, no bun"
+  },
+  "60": {
+    "name": "steak",
+    "prompt": "beef steak, thick seared sirloin steak sliced to show pink centre, on a plate"
+  },
+  "61": {
+    "name": "dried fish",
+    "prompt": "himono, dried and grilled split fish, flattened butterfly shape with pale flesh and skin"
+  },
+  "62": {
+    "name": "ginger pork saute",
+    "prompt": "shogayaki, thin slices of pork stir-fried in ginger soy sauce with shredded cabbage on the side"
+  },
+  "63": {
+    "name": "spicy chili-flavored tofu",
+    "prompt": "mapo tofu, cubes of soft tofu in glossy red spicy chilli-bean sauce with minced pork and spring onion"
+  },
+  "64": {
+    "name": "yakitori",
+    "prompt": "yakitori, grilled chicken pieces on bamboo skewers glazed with tare sauce"
+  },
+  "65": {
+    "name": "cabbage roll",
+    "prompt": "cabbage rolls, minced meat wrapped in boiled cabbage leaves, simmered in pale tomato or clear broth"
+  },
+  "66": {
+    "name": "omelet",
+    "prompt": "tamagoyaki, Japanese rolled omelette cut into thick rectangular blocks showing spiral egg layers, arranged in a bento box"
+  },
+  "67": {
+    "name": "egg sunny-side up",
+    "prompt": "medama-yaki, a fried egg sunny-side up with an intact bright yellow yolk and set white"
+  },
+  "68": {
+    "name": "natto",
+    "prompt": "natto, sticky fermented soybeans with visible stringy threads in a small bowl with spring onion"
+  },
+  "69": {
+    "name": "cold tofu",
+    "prompt": "hiyayakko, a block of chilled silken tofu topped with grated ginger, bonito flakes and spring onion"
+  },
+  "70": {
+    "name": "egg roll",
+    "prompt": "harumaki, Chinese egg rolls, golden deep-fried cylindrical wrappers on a plate"
+  },
+  "71": {
+    "name": "chilled noodle",
+    "prompt": "hiyashi chuka, cold ramen noodles topped with strips of ham, cucumber, egg crepe and tomato"
+  },
+  "72": {
+    "name": "stir-fried beef and peppers",
+    "prompt": "chinjao rosu, stir-fried beef strips with green bell pepper and bamboo shoot in soy sauce"
+  },
+  "73": {
+    "name": "simmered pork",
+    "prompt": "buta no kakuni, cubes of pork belly simmered until glossy dark brown and tender, with mustard"
+  },
+  "74": {
+    "name": "boiled chicken and vegetables",
+    "prompt": "boiled chicken and vegetables simmered in light dashi, with carrot, taro and konnyaku"
+  },
+  "75": {
+    "name": "sashimi bowl",
+    "prompt": "kaisendon, thick slices of raw tuna, salmon and white fish completely covering a bowl of rice, rice barely visible, with wasabi and shiso"
+  },
+  "76": {
+    "name": "sushi bowl",
+    "prompt": "chirashizushi, a shallow bowl of white vinegared rice topped with shredded nori strips, thin yellow egg ribbon and small scattered toppings, mostly rice with no large fish slices"
+  },
+  "77": {
+    "name": "fish-shaped pancake with bean jam",
+    "prompt": "taiyaki, a fish-shaped waffle cake filled with sweet red bean paste"
+  },
+  "78": {
+    "name": "shrimp with chill source",
+    "prompt": "ebi chili, prawns in thick glossy red sweet chilli sauce with spring onion"
+  },
+  "79": {
+    "name": "roast chicken",
+    "prompt": "roast chicken, whole browned roasted chicken with crisp golden skin"
+  },
+  "80": {
+    "name": "steamed meat dumpling",
+    "prompt": "shumai, small steamed open-topped pork dumplings with pleated yellow wrappers in a bamboo steamer"
+  },
+  "81": {
+    "name": "omelet with fried rice",
+    "prompt": "omurice, a mound of ketchup fried rice wrapped in a thin yellow egg omelette with ketchup on top"
+  },
+  "82": {
+    "name": "cutlet curry",
+    "prompt": "katsu curry, breaded pork cutlet sliced into strips over rice with thick brown Japanese curry sauce"
+  },
+  "83": {
+    "name": "spaghetti meat sauce",
+    "prompt": "spaghetti bolognese, long pasta coated in chunky red minced-meat tomato sauce"
+  },
+  "84": {
+    "name": "fried shrimp",
+    "prompt": "ebi fry, large prawns in golden panko breadcrumb coating, tails visible, on shredded cabbage"
+  },
+  "85": {
+    "name": "potato salad",
+    "prompt": "potato salad, creamy mashed potato salad with cucumber, carrot and ham in mayonnaise"
+  },
+  "86": {
+    "name": "green salad",
+    "prompt": "green salad, fresh lettuce leaves with tomato wedges and cucumber in a bowl"
+  },
+  "87": {
+    "name": "macaroni salad",
+    "prompt": "macaroni salad, small elbow macaroni in mayonnaise dressing with carrot and cucumber"
+  },
+  "88": {
+    "name": "Japanese tofu and vegetable chowder",
+    "prompt": "kenchinjiru, clear dashi chowder with crumbled tofu, daikon, carrot, burdock and konnyaku"
+  },
+  "89": {
+    "name": "pork miso soup",
+    "prompt": "tonjiru, cloudy brown miso soup thick with pork slices, daikon, carrot and burdock"
+  },
+  "90": {
+    "name": "chinese soup",
+    "prompt": "Chinese clear soup, pale consomme broth with egg ribbons and spring onion in a bowl"
+  },
+  "91": {
+    "name": "beef bowl",
+    "prompt": "gyudon, thin slices of simmered beef and onion in sweet soy sauce over rice in a bowl"
+  },
+  "92": {
+    "name": "kinpira-style sauteed burdock",
+    "prompt": "kinpira gobo, julienned burdock root and carrot stir-fried in soy sauce with sesame seeds"
+  },
+  "93": {
+    "name": "rice ball",
+    "prompt": "onigiri, triangular rice balls wrapped with a strip of nori seaweed"
+  },
+  "94": {
+    "name": "pizza toast",
+    "prompt": "pizza toast, a square slice of white bread topped with tomato sauce, melted cheese and peppers"
+  },
+  "95": {
+    "name": "dipping noodles",
+    "prompt": "tsukemen, thick cold ramen noodles served separately beside a small bowl of concentrated dipping broth"
+  },
+  "96": {
+    "name": "hot dog",
+    "prompt": "hot dog, a frankfurter in a long soft bun with ketchup and mustard"
+  },
+  "97": {
+    "name": "french fries",
+    "prompt": "french fries, a pile of golden deep-fried potato sticks"
+  },
+  "98": {
+    "name": "mixed rice",
+    "prompt": "takikomi gohan, mixed rice cooked with soy sauce, mushroom, carrot and chicken pieces"
+  },
+  "99": {
+    "name": "goya chanpuru",
+    "prompt": "goya champuru, Okinawan stir-fry of sliced bitter melon rings, firm tofu, egg and pork"
+  },
+  "100": {
+    "name": "green curry",
+    "prompt": "gaeng khiao wan, Thai green curry, pale green coconut curry with chicken, Thai eggplant and basil in a bowl"
+  },
+  "101": {
+    "name": "okinawa soba",
+    "prompt": "Okinawa soba, thick pale wheat noodles in clear pork broth topped with stewed pork belly slices, red pickled ginger and spring onion"
+  },
+  "102": {
+    "name": "mango pudding",
+    "prompt": "mango pudding, smooth orange-yellow set dessert in a glass with evaporated milk drizzled on top"
+  },
+  "103": {
+    "name": "almond jelly",
+    "prompt": "annin tofu, almond jelly, white cubes of milky set jelly in clear syrup with fruit"
+  },
+  "104": {
+    "name": "jjigae",
+    "prompt": "jjigae, bubbling Korean red stew in a black stone pot with tofu, vegetables and chilli broth"
+  },
+  "105": {
+    "name": "dak galbi",
+    "prompt": "dak galbi, Korean stir-fried chicken with cabbage and tteok rice cakes in red gochujang sauce on a flat pan"
+  },
+  "106": {
+    "name": "dry curry",
+    "prompt": "dry curry, dark minced-meat curry with no sauce served over rice, crumbly texture"
+  },
+  "107": {
+    "name": "kamameshi",
+    "prompt": "kamameshi, rice cooked and served in a small iron pot topped with arranged chicken, mushroom and vegetables"
+  },
+  "108": {
+    "name": "rice vermicelli",
+    "prompt": "bee hoon, thin white rice vermicelli noodles stir-fried with vegetables and prawns"
+  },
+  "109": {
+    "name": "paella",
+    "prompt": "paella, saffron-yellow rice in a wide shallow pan with mussels, prawns and lemon wedges"
+  },
+  "110": {
+    "name": "tanmen",
+    "prompt": "tanmen, ramen noodles in clear salt broth heaped with stir-fried cabbage, bean sprouts, carrot and pork"
+  },
+  "111": {
+    "name": "kushikatu",
+    "prompt": "kushikatsu, breadcrumbed deep-fried meat and vegetable pieces on short bamboo skewers, standing upright"
+  },
+  "112": {
+    "name": "yellow curry",
+    "prompt": "gaeng kari, Thai yellow curry, golden turmeric coconut curry with chicken and potato in a bowl"
+  },
+  "113": {
+    "name": "pancake",
+    "prompt": "pancakes, a stack of thick round American pancakes with butter and syrup"
+  },
+  "114": {
+    "name": "champon",
+    "prompt": "champon, thick noodles in cloudy white pork broth heaped with seafood, squid, cabbage and kamaboko"
+  },
+  "115": {
+    "name": "crape",
+    "prompt": "crepe, a thin French pancake rolled or folded into a cone with cream and fruit"
+  },
+  "116": {
+    "name": "tiramisu",
+    "prompt": "tiramisu, layered coffee-soaked sponge and mascarpone dessert dusted with cocoa powder"
+  },
+  "117": {
+    "name": "waffle",
+    "prompt": "a Belgian waffle, thick golden grid-patterned waffle with deep squares"
+  },
+  "118": {
+    "name": "rare cheese cake",
+    "prompt": "rare cheesecake, a slice of unbaked pale white chilled cheesecake with a biscuit base"
+  },
+  "119": {
+    "name": "shortcake",
+    "prompt": "strawberry shortcake, a slice of white sponge layered with whipped cream and strawberries"
+  },
+  "120": {
+    "name": "chop suey",
+    "prompt": "chop suey, stir-fried mixed vegetables and meat in thick clear brown sauce with bean sprouts and celery"
+  },
+  "121": {
+    "name": "twice cooked pork",
+    "prompt": "hoikoro, twice-cooked pork, stir-fried pork belly slices with cabbage and green pepper in sweet miso sauce"
+  },
+  "122": {
+    "name": "mushroom risotto",
+    "prompt": "mushroom risotto, creamy pale rice with sliced brown mushrooms and parmesan"
+  },
+  "123": {
+    "name": "samul",
+    "prompt": "namul, Korean seasoned vegetable side dishes, small mounds of blanched spinach and bean sprouts with sesame"
+  },
+  "124": {
+    "name": "zoni",
+    "prompt": "zoni, New Year soup with soft grilled mochi rice cake in clear dashi broth with mitsuba and kamaboko"
+  },
+  "125": {
+    "name": "french toast",
+    "prompt": "French toast, thick bread slices soaked in egg and fried golden, dusted with sugar"
+  },
+  "126": {
+    "name": "fine white noodles",
+    "prompt": "somen, very thin white wheat noodles served cold in water with a small cup of dipping sauce"
+  },
+  "127": {
+    "name": "minestrone",
+    "prompt": "minestrone, red tomato-based Italian vegetable soup with small pasta, carrot and celery"
+  },
+  "128": {
+    "name": "pot au feu",
+    "prompt": "pot-au-feu, clear broth with large chunks of boiled carrot, potato, cabbage and sausage"
+  },
+  "129": {
+    "name": "chicken nugget",
+    "prompt": "chicken nuggets, small uniform breaded fried chicken pieces on a plate"
+  },
+  "130": {
+    "name": "namero",
+    "prompt": "namero, minced raw horse mackerel pounded with miso, ginger and spring onion into a dark paste on a shiso leaf"
+  },
+  "131": {
+    "name": "french bread",
+    "prompt": "a French baguette, long crusty white loaf, whole or sliced"
+  },
+  "132": {
+    "name": "rice gruel",
+    "prompt": "okayu, thin white rice gruel porridge in a bowl with umeboshi plum on top"
+  },
+  "133": {
+    "name": "broiled eel bowl",
+    "prompt": "unadon, one or two large glazed grilled eel fillets on a mound of white rice in a round ceramic donburi bowl, white rice visible around the edges"
+  },
+  "134": {
+    "name": "clear soup",
+    "prompt": "osuimono, a clear pale dashi soup in a lidded lacquer bowl with a small piece of fish and mitsuba leaf"
+  },
+  "135": {
+    "name": "yudofu",
+    "prompt": "yudofu, blocks of soft white tofu simmered in clear water in an earthenware pot with kombu"
+  },
+  "136": {
+    "name": "mozuku",
+    "prompt": "mozuku, fine dark brown seaweed strands in vinegar in a small glass bowl"
+  },
+  "137": {
+    "name": "inarizushi",
+    "prompt": "inarizushi, sushi rice stuffed in pouches of sweet brown fried tofu, rounded and glossy"
+  },
+  "138": {
+    "name": "pork loin cutlet",
+    "prompt": "tonkatsu, one large flat breaded deep-fried pork loin slab sliced crosswise into strips, served on shredded cabbage"
+  },
+  "139": {
+    "name": "pork fillet cutlet",
+    "prompt": "hirekatsu, several small round breaded deep-fried pork fillet medallions arranged together on a plate"
+  },
+  "140": {
+    "name": "chicken cutlet",
+    "prompt": "chicken katsu, a flat breaded deep-fried chicken breast cutlet sliced into strips on shredded cabbage"
+  },
+  "141": {
+    "name": "ham cutlet",
+    "prompt": "ham katsu, thin breaded deep-fried slices of pink ham, flat and rectangular, showing pink ham inside"
+  },
+  "142": {
+    "name": "minced meat cutlet",
+    "prompt": "menchi katsu, a round breaded deep-fried minced meat patty, crisp dark golden crust, cut to show brown minced filling"
+  },
+  "143": {
+    "name": "thinly sliced raw horsemeat",
+    "prompt": "basashi, thin slices of raw red horsemeat arranged on a plate with grated ginger, garlic and shiso leaf"
+  },
+  "144": {
+    "name": "bagel",
+    "prompt": "a bagel, a dense ring-shaped bread roll with a shiny chewy crust"
+  },
+  "145": {
+    "name": "scone",
+    "prompt": "scones, thick round crumbly British scones with a split side, often with clotted cream and jam"
+  },
+  "146": {
+    "name": "tortilla",
+    "prompt": "a plain soft flour tortilla, a flat round pale wrap"
+  },
+  "147": {
+    "name": "tacos",
+    "prompt": "tacos, folded crisp or soft tortillas filled with minced meat, lettuce, cheese and salsa"
+  },
+  "148": {
+    "name": "nachos",
+    "prompt": "nachos, a pile of triangular tortilla chips covered with melted cheese, jalapenos and salsa"
+  },
+  "149": {
+    "name": "meat loaf",
+    "prompt": "meat loaf, a baked rectangular loaf of minced meat sliced to show dense interior, with brown gravy"
+  },
+  "150": {
+    "name": "scrambled egg",
+    "prompt": "scrambled eggs, soft yellow curds of loosely cooked egg piled on a plate"
+  },
+  "151": {
+    "name": "rice gratin",
+    "prompt": "doria, rice baked under white cream sauce with a browned cheese crust in an oval gratin dish, rice visible underneath"
+  },
+  "152": {
+    "name": "lasagna",
+    "prompt": "lasagna, layered flat pasta sheets with red meat ragu and white bechamel, cut square to show the layers"
+  },
+  "153": {
+    "name": "Caesar salad",
+    "prompt": "Caesar salad, whole romaine lettuce leaves with creamy dressing, shaved parmesan and croutons"
+  },
+  "154": {
+    "name": "oatmeal",
+    "prompt": "oatmeal, thick beige porridge of rolled oats in a bowl with milk"
+  },
+  "155": {
+    "name": "fried pork dumplings served in soup",
+    "prompt": "suigyoza, boiled pork dumplings with soft translucent wrappers floating in clear soup in a bowl"
+  },
+  "156": {
+    "name": "oshiruko",
+    "prompt": "oshiruko, sweet red azuki bean soup with soft white mochi rice cake in a lacquer bowl"
+  },
+  "157": {
+    "name": "muffin",
+    "prompt": "a muffin, a domed baked cake with a paper case and a cracked risen top"
+  },
+  "158": {
+    "name": "popcorn",
+    "prompt": "popcorn, a heap of white popped corn kernels"
+  },
+  "159": {
+    "name": "cream puff",
+    "prompt": "shu cream, a round choux pastry puff filled with custard cream, dusted with sugar"
+  },
+  "160": {
+    "name": "doughnut",
+    "prompt": "a ring doughnut with glaze or sugar coating"
+  },
+  "161": {
+    "name": "apple pie",
+    "prompt": "apple pie, a wedge of double-crust pie with visible cooked apple slices inside"
+  },
+  "162": {
+    "name": "parfait",
+    "prompt": "parfait, a tall glass layered with ice cream, cream, fruit and cornflakes, served with a long spoon"
+  },
+  "163": {
+    "name": "fried pork in scoop",
+    "prompt": "deep-fried pork pieces scooped and served in a paper cone or small basket"
+  },
+  "164": {
+    "name": "lamb kebabs",
+    "prompt": "lamb kebabs, cubes of grilled spiced lamb on metal skewers with cumin and chilli"
+  },
+  "165": {
+    "name": "dish consisting of stir-fried potato, eggplant and green pepper",
+    "prompt": "di san xian, Chinese stir-fried potato, eggplant and green pepper in glossy dark brown sauce"
+  },
+  "166": {
+    "name": "roast duck",
+    "prompt": "roast duck, glossy red-brown lacquered roast duck chopped into pieces with crisp skin, on a plate"
+  },
+  "167": {
+    "name": "hot pot",
+    "prompt": "hot pot, a simmering metal pot of broth on a table with raw sliced meat and vegetables arranged around it"
+  },
+  "168": {
+    "name": "pork belly",
+    "prompt": "braised pork belly, thick layered slices of pork belly with alternating fat and lean, dark glossy sauce"
+  },
+  "169": {
+    "name": "xiao long bao",
+    "prompt": "xiao long bao, small pleated soup dumplings with translucent thin skin in a bamboo steamer basket"
+  },
+  "170": {
+    "name": "moon cake",
+    "prompt": "moon cake, a small round dense pastry with an intricate stamped pattern on top, cut to show dark filling"
+  },
+  "171": {
+    "name": "custard tart",
+    "prompt": "Hong Kong egg tart, a small round tart with smooth glossy yellow custard in a flaky pastry shell"
+  },
+  "172": {
+    "name": "beef noodle soup",
+    "prompt": "Taiwanese beef noodle soup, thick noodles in dark red braised broth with large chunks of stewed beef, greens and pickled mustard"
+  },
+  "173": {
+    "name": "pork cutlet",
+    "prompt": "tonkatsu, breaded deep-fried pork cutlet sliced into strips with tonkatsu sauce, on shredded cabbage"
+  },
+  "174": {
+    "name": "minced pork rice",
+    "prompt": "lu rou fan, minced braised pork belly in dark soy sauce ladled over white rice in a small bowl"
+  },
+  "175": {
+    "name": "fish ball soup",
+    "prompt": "fish ball soup, pale round white fish balls floating in clear broth in a bowl"
+  },
+  "176": {
+    "name": "oyster omelette",
+    "prompt": "oyster omelette, a soft irregular egg and starch pancake with small oysters, topped with pink-orange sweet chilli sauce"
+  },
+  "177": {
+    "name": "glutinous oil rice",
+    "prompt": "glutinous oil rice, sticky brown-seasoned glutinous rice with dried shrimp, shiitake and pork"
+  },
+  "178": {
+    "name": "trunip pudding",
+    "prompt": "turnip cake, pan-fried grey-white radish cake squares with browned crisp surfaces"
+  },
+  "179": {
+    "name": "stinky tofu",
+    "prompt": "stinky tofu, deep-fried dark brown tofu cubes served with pickled cabbage and chilli sauce"
+  },
+  "180": {
+    "name": "lemon fig jelly",
+    "prompt": "lemon fig jelly, translucent pale yellow set jelly dessert in a small glass or mould"
+  },
+  "181": {
+    "name": "khao soi",
+    "prompt": "khao soi, northern Thai curry noodle soup with yellow coconut curry broth, soft egg noodles and a nest of crisp fried noodles on top, with red onion and lime"
+  },
+  "182": {
+    "name": "Sour prawn soup",
+    "prompt": "tom yum goong, clear red-orange hot and sour Thai soup with prawns, mushroom, lemongrass and lime leaf"
+  },
+  "183": {
+    "name": "Thai papaya salad",
+    "prompt": "som tam, green papaya salad, shredded unripe papaya with tomato, long beans, peanuts and chilli on a plate"
+  },
+  "184": {
+    "name": "boned, sliced Hainan-style chicken with marinated rice",
+    "prompt": "khao man gai, poached sliced white chicken over pale seasoned rice with cucumber slices and a bowl of dipping sauce"
+  },
+  "185": {
+    "name": "hot and sour, fish and vegetable ragout",
+    "prompt": "hot and sour fish and vegetable ragout, thick sour orange-brown stew with fish pieces and vegetables in a bowl"
+  },
+  "186": {
+    "name": "stir-fried mixed vegetables",
+    "prompt": "pad pak ruam, stir-fried mixed vegetables with carrot, broccoli, baby corn and cabbage in light sauce"
+  },
+  "187": {
+    "name": "beef in oyster sauce",
+    "prompt": "beef in oyster sauce, sliced beef stir-fried with onion and spring onion in glossy dark brown oyster sauce"
+  },
+  "188": {
+    "name": "pork satay",
+    "prompt": "pork satay, small flat skewers of grilled marinated pork, golden-yellow from turmeric, with peanut sauce"
+  },
+  "189": {
+    "name": "spicy chicken salad",
+    "prompt": "larb gai, Thai spicy minced chicken salad with red chilli flakes, mint, red onion and toasted rice powder"
+  },
+  "190": {
+    "name": "noodles with fish curry",
+    "prompt": "khanom jeen nam ya, soft white rice noodles topped with yellow-orange fish curry sauce, with raw vegetables on the side"
+  },
+  "191": {
+    "name": "Pork Sticky Noodles",
+    "prompt": "pork sticky noodles, thick glossy stir-fried noodles with pork in dark sticky sauce"
+  },
+  "192": {
+    "name": "Pork with lemon",
+    "prompt": "moo manao, thin slices of boiled pork in a pool of sharp lime, garlic and chilli sauce, garnished with fresh mint"
+  },
+  "193": {
+    "name": "stewed pork leg",
+    "prompt": "khao kha moo, stewed pork leg in dark soy braise, gelatinous skin, served over rice with a boiled egg and greens"
+  },
+  "194": {
+    "name": "charcoal-boiled pork neck",
+    "prompt": "kor moo yang, charcoal-grilled pork neck sliced into strips, charred edges, with a dipping sauce"
+  },
+  "195": {
+    "name": "fried mussel pancakes",
+    "prompt": "hoi tod, crisp fried mussel pancake in a batter with bean sprouts and egg on a plate"
+  },
+  "196": {
+    "name": "Deep Fried Chicken Wing",
+    "prompt": "deep fried chicken wings, whole golden-brown crisp fried wings piled on a plate"
+  },
+  "197": {
+    "name": "Barbecued red pork in sauce with rice",
+    "prompt": "khao moo daeng, Thai barbecued red-edged pork slices over rice with thick dark red gravy and a boiled egg"
+  },
+  "198": {
+    "name": "Rice with roast duck",
+    "prompt": "khao na ped, chopped roast duck with glossy red-brown skin over white rice with dark gravy and greens"
+  },
+  "199": {
+    "name": "Rice crispy pork",
+    "prompt": "khao moo krob, crispy pork belly cubes with crackling skin over white rice with greens"
+  },
+  "200": {
+    "name": "Wonton soup",
+    "prompt": "wonton soup, soft pale wontons with ruffled wrappers floating in clear broth with spring onion"
+  },
+  "201": {
+    "name": "Chicken Rice Curry With Coconut",
+    "prompt": "chicken rice curry with coconut, yellow coconut curry with chicken served beside white rice"
+  },
+  "202": {
+    "name": "Crispy Noodles",
+    "prompt": "mee krob, crisp deep-fried noodles in a tangled golden nest coated in sweet-sour sauce"
+  },
+  "203": {
+    "name": "Egg Noodle In Chicken Yellow Curry",
+    "prompt": "egg noodles in yellow chicken curry, soft yellow egg noodles in mild yellow coconut curry broth with chicken, no crisp noodle topping"
+  },
+  "204": {
+    "name": "coconut milk soup",
+    "prompt": "tom kha gai, opaque white coconut milk soup with chicken, galangal and mushroom, milder than tom yum"
+  },
+  "205": {
+    "name": "pho",
+    "prompt": "pho, Vietnamese clear beef broth with flat white rice noodles, thin raw beef slices, spring onion and a plate of herbs and bean sprouts"
+  },
+  "206": {
+    "name": "Hue beef rice vermicelli soup",
+    "prompt": "bun bo Hue, spicy red-orange Vietnamese soup with round thick rice noodles, beef slices and pork knuckle"
+  },
+  "207": {
+    "name": "Vermicelli noodles with snails",
+    "prompt": "bun oc, Vietnamese rice vermicelli soup with snails in tomato-tinged broth with herbs"
+  },
+  "208": {
+    "name": "Fried spring rolls",
+    "prompt": "cha gio, small crisp deep-fried Vietnamese spring rolls, golden and cylindrical, with lettuce and dipping sauce"
+  },
+  "209": {
+    "name": "Steamed rice roll",
+    "prompt": "banh cuon, soft white translucent steamed rice rolls filled with minced pork and mushroom, with fried shallots"
+  },
+  "210": {
+    "name": "Shrimp patties",
+    "prompt": "shrimp patties, small round flattened fried shrimp cakes, pinkish-orange, on a plate"
+  },
+  "211": {
+    "name": "ball shaped bun with pork",
+    "prompt": "banh bao, a large round white steamed bun filled with pork, smooth pale exterior"
+  },
+  "212": {
+    "name": "Coconut milk-flavored crepes with shrimp and beef",
+    "prompt": "banh xeo, a large folded yellow turmeric crepe filled with shrimp, pork and bean sprouts, served with lettuce"
+  },
+  "213": {
+    "name": "Small steamed savory rice pancake",
+    "prompt": "banh beo, small round steamed rice pancakes in individual shallow dishes, topped with dried shrimp floss"
+  },
+  "214": {
+    "name": "Glutinous Rice Balls",
+    "prompt": "che troi nuoc, white glutinous rice balls in sweet clear ginger syrup in a bowl"
+  },
+  "215": {
+    "name": "loco moco",
+    "prompt": "loco moco, a hamburger patty over white rice topped with a fried egg and brown gravy on a plate"
+  },
+  "216": {
+    "name": "haupia",
+    "prompt": "haupia, firm white coconut pudding cut into small squares"
+  },
+  "217": {
+    "name": "malasada",
+    "prompt": "malasada, a round Portuguese-Hawaiian doughnut without a hole, rolled in granulated sugar"
+  },
+  "218": {
+    "name": "laulau",
+    "prompt": "laulau, pork wrapped and steamed in dark green taro leaves, unwrapped to show the meat"
+  },
+  "219": {
+    "name": "spam musubi",
+    "prompt": "spam musubi, a block of white rice topped with a slice of grilled Spam, wrapped with a band of nori"
+  },
+  "220": {
+    "name": "oxtail soup",
+    "prompt": "oxtail soup, clear brown broth with large round bone-in oxtail segments, carrot and celery in a bowl"
+  },
+  "221": {
+    "name": "adobo",
+    "prompt": "chicken adobo, Filipino chicken braised in dark soy and vinegar sauce, glossy brown pieces with bay leaf and peppercorns, served with rice"
+  },
+  "222": {
+    "name": "lumpia",
+    "prompt": "lumpia, thin long slender Filipino spring rolls, pale golden and pencil-thin, stacked on a plate with sweet chilli dip"
+  },
+  "223": {
+    "name": "brownie",
+    "prompt": "a brownie, a dense dark chocolate square with a fudgy interior and cracked matte top"
+  },
+  "224": {
+    "name": "churro",
+    "prompt": "churros, long ridged deep-fried dough sticks dusted with cinnamon sugar"
+  },
+  "225": {
+    "name": "jambalaya",
+    "prompt": "jambalaya, reddish-brown Cajun rice cooked with sausage, prawns, peppers and celery in one pan"
+  },
+  "226": {
+    "name": "nasi goreng",
+    "prompt": "nasi goreng, Indonesian fried rice, dark brown from kecap manis, topped with a fried egg and prawn crackers"
+  },
+  "227": {
+    "name": "ayam goreng",
+    "prompt": "ayam goreng, Indonesian deep-fried chicken pieces with a dry crumbly golden-brown spice coating, bone-in, served with sambal"
+  },
+  "228": {
+    "name": "ayam bakar",
+    "prompt": "ayam bakar, Indonesian grilled chicken, dark reddish-brown charred glaze with visible grill marks, brushed with sweet soy"
+  },
+  "229": {
+    "name": "bubur ayam",
+    "prompt": "bubur ayam, Indonesian chicken rice porridge, white congee topped with shredded chicken, fried shallots, crackers and soy"
+  },
+  "230": {
+    "name": "gulai",
+    "prompt": "gulai, Indonesian yellow-orange coconut curry with a thick turmeric sauce and pieces of meat or fish"
+  },
+  "231": {
+    "name": "laksa",
+    "prompt": "laksa, orange-red coconut curry noodle soup with thick noodles, prawns, tofu puffs and a slick of chilli oil"
+  },
+  "232": {
+    "name": "mie ayam",
+    "prompt": "mie ayam, Indonesian thin yellow egg noodles topped with diced seasoned chicken, greens and a small bowl of broth"
+  },
+  "233": {
+    "name": "mie goreng",
+    "prompt": "mie goreng, Indonesian fried noodles, dark brown yellow noodles stir-fried with vegetables and a fried egg"
+  },
+  "234": {
+    "name": "nasi campur",
+    "prompt": "nasi campur, a plate of white rice ringed by several small separate side dishes of meat, vegetables, egg and sambal"
+  },
+  "235": {
+    "name": "nasi padang",
+    "prompt": "nasi padang, white rice served with multiple small bowls of rich dark curries and rendang arranged around it"
+  },
+  "236": {
+    "name": "nasi uduk",
+    "prompt": "nasi uduk, Indonesian coconut rice, fragrant white rice with fried shallots, omelette strips and peanuts"
+  },
+  "237": {
+    "name": "babi guling",
+    "prompt": "babi guling, Balinese roast suckling pig with crisp reddish-brown crackling skin, sliced and served with rice"
+  },
+  "238": {
+    "name": "kaya toast",
+    "prompt": "kaya toast, thin crisp toasted bread slices spread with green kaya coconut jam and a slab of cold butter"
+  },
+  "239": {
+    "name": "bak kut teh",
+    "prompt": "bak kut teh, clear peppery pork rib soup in a bowl, pale broth with meaty bone-in ribs"
+  },
+  "240": {
+    "name": "curry puff",
+    "prompt": "curry puff, a small crimped half-moon pastry with a golden crust, filled with curried potato and chicken"
+  },
+  "241": {
+    "name": "chow mein",
+    "prompt": "chow mein, stir-fried thin Chinese wheat noodles with cabbage, carrot and meat strips, pale brown, no soup"
+  },
+  "242": {
+    "name": "zha jiang mian",
+    "prompt": "zha jiang mian, thick white wheat noodles topped with a mound of dark brown fermented bean and minced pork sauce, with shredded cucumber"
+  },
+  "243": {
+    "name": "kung pao chicken",
+    "prompt": "kung pao chicken, diced chicken stir-fried with peanuts, dried red chillies and spring onion in glossy brown sauce"
+  },
+  "244": {
+    "name": "crullers",
+    "prompt": "youtiao, Chinese crullers, long pale golden deep-fried dough sticks in joined pairs"
+  },
+  "245": {
+    "name": "eggplant with garlic sauce",
+    "prompt": "eggplant with garlic sauce, soft collapsed eggplant strips in glossy dark red-brown garlic sauce"
+  },
+  "246": {
+    "name": "three cup chicken",
+    "prompt": "three cup chicken, bone-in chicken pieces in a dark reduced soy and sesame sauce with whole garlic and Thai basil leaves, in a clay pot"
+  },
+  "247": {
+    "name": "bean curd family style",
+    "prompt": "bean curd family style, fried tofu triangles braised with wood ear mushroom, carrot and greens in brown sauce"
+  },
+  "248": {
+    "name": "salt & pepper fried shrimp with shell",
+    "prompt": "salt and pepper fried shrimp with shell, whole unpeeled prawns deep-fried and tossed with chilli, garlic and spring onion"
+  },
+  "249": {
+    "name": "baked salmon",
+    "prompt": "baked salmon, an orange-pink salmon fillet baked with a pale surface, lemon and herbs, on a plate"
+  },
+  "250": {
+    "name": "braised pork meat ball with napa cabbage",
+    "prompt": "braised pork meatballs with napa cabbage, large round pork meatballs simmered with soft pale cabbage leaves in clear broth"
+  },
+  "251": {
+    "name": "winter melon soup",
+    "prompt": "winter melon soup, clear pale broth with translucent soft chunks of winter melon in a bowl"
+  },
+  "252": {
+    "name": "steamed spareribs",
+    "prompt": "steamed spareribs, small chopped pork rib pieces steamed with black bean sauce in a small dish"
+  },
+  "253": {
+    "name": "chinese pumpkin pie",
+    "prompt": "Chinese pumpkin pie, small round flattened orange glutinous rice pumpkin cakes, pan-fried golden on both sides"
+  },
+  "254": {
+    "name": "eight treasure rice",
+    "prompt": "eight treasure rice, a domed mould of sweet glutinous rice decorated with candied fruits, dates and lotus seeds"
+  },
+  "255": {
+    "name": "hot & sour soup",
+    "prompt": "hot and sour soup, thick dark brown Chinese soup with shredded tofu, wood ear mushroom, bamboo shoot and egg ribbons, cloudy and peppery"
+  }
+}

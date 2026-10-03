@@ -1,0 +1,10 @@
+# model weights and generated images are not part of the repository
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+food101_lt_synth/
+uec256_synth/
+hf_cache/
+__pycache__/
+.ipynb_checkpoints/

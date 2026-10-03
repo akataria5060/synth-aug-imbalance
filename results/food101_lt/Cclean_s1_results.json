@@ -1,0 +1,39 @@
+{
+  "tag": "Cclean_s1",
+  "init": "align",
+  "alloc": "targeted-clean",
+  "synth_list": "/workspace/food101_lt/synth_Cclean.txt",
+  "n_real": 15244,
+  "n_synth": 3800,
+  "config": {
+    "epochs": 30,
+    "batch": 32,
+    "lr": 0.0001,
+    "warmup": 3,
+    "wd": 0.0001,
+    "mixup": 0.2,
+    "smooth": 0.1,
+    "ema": 0.999,
+    "tta_views": 8,
+    "seed": 1,
+    "budget": 3800,
+    "holdout_frac": 0.15
+  },
+  "no_tta": {
+    "top1": 77.01,
+    "top5": 94.77,
+    "top1_head": 90.87,
+    "top1_tail": 70.28,
+    "top5_head": 98.39,
+    "top5_tail": 93.02
+  },
+  "with_tta": {
+    "top1": 77.93,
+    "top5": 95.22,
+    "top1_head": 91.88,
+    "top1_tail": 71.16,
+    "top5_head": 98.68,
+    "top5_tail": 93.54
+  },
+  "minutes": 87.4
+}

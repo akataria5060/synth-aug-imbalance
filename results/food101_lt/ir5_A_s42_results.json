@@ -1,0 +1,341 @@
+{
+  "tag": "ir5_A_s42",
+  "init": "align",
+  "alloc": "none",
+  "synth_list": "None",
+  "n_real": 37728,
+  "n_synth": 0,
+  "config": {
+    "epochs": 30,
+    "batch": 32,
+    "lr": 0.0001,
+    "warmup": 3,
+    "wd": 0.0001,
+    "mixup": 0.2,
+    "smooth": 0.1,
+    "ema": 0.999,
+    "tta_views": 8,
+    "seed": 42,
+    "budget": 3800,
+    "split": "train_lt_ir5"
+  },
+  "no_tta": {
+    "top1": 89.66,
+    "top5": 98.1,
+    "top1_head": 91.44,
+    "top1_tail": 88.28,
+    "top5_head": 98.66,
+    "top5_tail": 97.66
+  },
+  "with_tta": {
+    "top1": 90.42,
+    "top5": 98.4,
+    "top1_head": 92.08,
+    "top1_tail": 89.14,
+    "top5_head": 98.78,
+    "top5_tail": 98.1
+  },
+  "minutes": 148.2,
+  "history": [
+    {
+      "epoch": 1,
+      "loss": 3.7132,
+      "top1": 27.69,
+      "top5": 56.77,
+      "top1_head": 41.54,
+      "top1_tail": 17.0,
+      "top5_head": 73.61,
+      "top5_tail": 43.78
+    },
+    {
+      "epoch": 2,
+      "loss": 2.3935,
+      "top1": 75.58,
+      "top5": 95.34,
+      "top1_head": 83.47,
+      "top1_tail": 69.49,
+      "top5_head": 96.95,
+      "top5_tail": 94.11
+    },
+    {
+      "epoch": 3,
+      "loss": 2.1246,
+      "top1": 83.98,
+      "top5": 97.37,
+      "top1_head": 87.83,
+      "top1_tail": 81.02,
+      "top5_head": 98.16,
+      "top5_tail": 96.76
+    },
+    {
+      "epoch": 4,
+      "loss": 2.0215,
+      "top1": 86.36,
+      "top5": 97.79,
+      "top1_head": 89.53,
+      "top1_tail": 83.92,
+      "top5_head": 98.36,
+      "top5_tail": 97.35
+    },
+    {
+      "epoch": 5,
+      "loss": 1.9159,
+      "top1": 87.63,
+      "top5": 98.04,
+      "top1_head": 90.35,
+      "top1_tail": 85.53,
+      "top5_head": 98.45,
+      "top5_tail": 97.73
+    },
+    {
+      "epoch": 6,
+      "loss": 1.8488,
+      "top1": 88.23,
+      "top5": 98.09,
+      "top1_head": 90.68,
+      "top1_tail": 86.33,
+      "top5_head": 98.58,
+      "top5_tail": 97.71
+    },
+    {
+      "epoch": 7,
+      "loss": 1.8025,
+      "top1": 88.42,
+      "top5": 98.19,
+      "top1_head": 90.61,
+      "top1_tail": 86.74,
+      "top5_head": 98.66,
+      "top5_tail": 97.83
+    },
+    {
+      "epoch": 8,
+      "loss": 1.769,
+      "top1": 88.68,
+      "top5": 98.17,
+      "top1_head": 90.77,
+      "top1_tail": 87.06,
+      "top5_head": 98.61,
+      "top5_tail": 97.84
+    },
+    {
+      "epoch": 9,
+      "loss": 1.6781,
+      "top1": 89.03,
+      "top5": 98.29,
+      "top1_head": 90.95,
+      "top1_tail": 87.54,
+      "top5_head": 98.8,
+      "top5_tail": 97.89
+    },
+    {
+      "epoch": 10,
+      "loss": 1.6521,
+      "top1": 89.1,
+      "top5": 98.21,
+      "top1_head": 90.87,
+      "top1_tail": 87.74,
+      "top5_head": 98.62,
+      "top5_tail": 97.89
+    },
+    {
+      "epoch": 11,
+      "loss": 1.6279,
+      "top1": 89.13,
+      "top5": 98.22,
+      "top1_head": 91.06,
+      "top1_tail": 87.64,
+      "top5_head": 98.64,
+      "top5_tail": 97.9
+    },
+    {
+      "epoch": 12,
+      "loss": 1.5807,
+      "top1": 89.1,
+      "top5": 98.22,
+      "top1_head": 90.96,
+      "top1_tail": 87.66,
+      "top5_head": 98.64,
+      "top5_tail": 97.9
+    },
+    {
+      "epoch": 13,
+      "loss": 1.5114,
+      "top1": 89.33,
+      "top5": 98.28,
+      "top1_head": 91.0,
+      "top1_tail": 88.05,
+      "top5_head": 98.75,
+      "top5_tail": 97.91
+    },
+    {
+      "epoch": 14,
+      "loss": 1.5312,
+      "top1": 89.53,
+      "top5": 98.21,
+      "top1_head": 91.07,
+      "top1_tail": 88.34,
+      "top5_head": 98.72,
+      "top5_tail": 97.82
+    },
+    {
+      "epoch": 15,
+      "loss": 1.4852,
+      "top1": 89.39,
+      "top5": 98.19,
+      "top1_head": 91.05,
+      "top1_tail": 88.11,
+      "top5_head": 98.67,
+      "top5_tail": 97.81
+    },
+    {
+      "epoch": 16,
+      "loss": 1.4652,
+      "top1": 89.46,
+      "top5": 98.22,
+      "top1_head": 91.07,
+      "top1_tail": 88.21,
+      "top5_head": 98.76,
+      "top5_tail": 97.8
+    },
+    {
+      "epoch": 17,
+      "loss": 1.4204,
+      "top1": 89.44,
+      "top5": 98.2,
+      "top1_head": 91.13,
+      "top1_tail": 88.13,
+      "top5_head": 98.74,
+      "top5_tail": 97.79
+    },
+    {
+      "epoch": 18,
+      "loss": 1.427,
+      "top1": 89.61,
+      "top5": 98.17,
+      "top1_head": 91.25,
+      "top1_tail": 88.34,
+      "top5_head": 98.72,
+      "top5_tail": 97.74
+    },
+    {
+      "epoch": 19,
+      "loss": 1.3953,
+      "top1": 89.64,
+      "top5": 98.17,
+      "top1_head": 91.33,
+      "top1_tail": 88.34,
+      "top5_head": 98.74,
+      "top5_tail": 97.74
+    },
+    {
+      "epoch": 20,
+      "loss": 1.3444,
+      "top1": 89.64,
+      "top5": 98.18,
+      "top1_head": 91.27,
+      "top1_tail": 88.37,
+      "top5_head": 98.66,
+      "top5_tail": 97.81
+    },
+    {
+      "epoch": 21,
+      "loss": 1.3573,
+      "top1": 89.52,
+      "top5": 98.13,
+      "top1_head": 91.29,
+      "top1_tail": 88.16,
+      "top5_head": 98.61,
+      "top5_tail": 97.77
+    },
+    {
+      "epoch": 22,
+      "loss": 1.3433,
+      "top1": 89.54,
+      "top5": 98.13,
+      "top1_head": 91.31,
+      "top1_tail": 88.18,
+      "top5_head": 98.63,
+      "top5_tail": 97.74
+    },
+    {
+      "epoch": 23,
+      "loss": 1.3143,
+      "top1": 89.58,
+      "top5": 98.08,
+      "top1_head": 91.28,
+      "top1_tail": 88.26,
+      "top5_head": 98.6,
+      "top5_tail": 97.68
+    },
+    {
+      "epoch": 24,
+      "loss": 1.3038,
+      "top1": 89.62,
+      "top5": 98.09,
+      "top1_head": 91.41,
+      "top1_tail": 88.25,
+      "top5_head": 98.59,
+      "top5_tail": 97.7
+    },
+    {
+      "epoch": 25,
+      "loss": 1.3064,
+      "top1": 89.61,
+      "top5": 98.07,
+      "top1_head": 91.45,
+      "top1_tail": 88.19,
+      "top5_head": 98.54,
+      "top5_tail": 97.71
+    },
+    {
+      "epoch": 26,
+      "loss": 1.3003,
+      "top1": 89.55,
+      "top5": 98.08,
+      "top1_head": 91.32,
+      "top1_tail": 88.18,
+      "top5_head": 98.58,
+      "top5_tail": 97.68
+    },
+    {
+      "epoch": 27,
+      "loss": 1.2821,
+      "top1": 89.51,
+      "top5": 98.08,
+      "top1_head": 91.35,
+      "top1_tail": 88.1,
+      "top5_head": 98.57,
+      "top5_tail": 97.69
+    },
+    {
+      "epoch": 28,
+      "loss": 1.3011,
+      "top1": 89.55,
+      "top5": 98.08,
+      "top1_head": 91.33,
+      "top1_tail": 88.18,
+      "top5_head": 98.6,
+      "top5_tail": 97.68
+    },
+    {
+      "epoch": 29,
+      "loss": 1.2988,
+      "top1": 89.62,
+      "top5": 98.09,
+      "top1_head": 91.42,
+      "top1_tail": 88.23,
+      "top5_head": 98.65,
+      "top5_tail": 97.66
+    },
+    {
+      "epoch": 30,
+      "loss": 1.3001,
+      "top1": 89.66,
+      "top5": 98.1,
+      "top1_head": 91.44,
+      "top1_tail": 88.28,
+      "top5_head": 98.66,
+      "top5_tail": 97.66
+    }
+  ]
+}

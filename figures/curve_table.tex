@@ -1,0 +1,14 @@
+% Mean $\pm$ sample std (ddof=1) over n seeds; top-1, no TTA.
+% Food101-LT B: the shared pool-capped sweep list at every ratio. UEC-256 B: uniform, 21 per class.
+\begin{tabular}{lrrrrrrr}
+\toprule
+dataset & IR & real & synth./real & $n$ & $A$ (real only) & $B$ (+synth) & gain \\
+\midrule
+Food101-LT & 150 & 15,244 & 24.9\% & 3 & $71.80\pm0.27$ & $77.24\pm0.24$ & $+5.45$ \\
+Food101-LT & 50 & 19,172 & 19.8\% & 2 & $80.55\pm0.42$ & $82.38\pm0.01$ & $+1.83$ \\
+Food101-LT & 20 & 24,268 & 15.7\% & 2 & $85.63\pm0.17$ & $86.27\pm0.11$ & $+0.64$ \\
+Food101-LT & 5 & 37,728 & 10.1\% & 2 & $89.81\pm0.21$ & $89.84\pm0.11$ & $+0.04$ \\
+\midrule
+UEC-256 & 7.9 & 22,041 & 24.4\% & 3 & $85.32\pm0.29$ & $85.18\pm0.17$ & $-0.14$ \\
+\bottomrule
+\end{tabular}
